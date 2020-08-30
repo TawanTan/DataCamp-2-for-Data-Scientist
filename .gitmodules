@@ -10,33 +10,13 @@
 	path = 16-Linear-Regression
 	url = https://github.com/TawanTan/16-Linear-Regression.git
 	branch = master
-[submodule "5-Matplotlib"]
-	path = 5-Matplotlib
-	url = https://github.com/TawanTan/5-Matplotlib.git
-	branch = master
 [submodule "21-Naive-Bayes"]
 	path = 21-Naive-Bayes
 	url = https://github.com/TawanTan/21-Naive-Bayes.git
 	branch = master
-[submodule "7-Plotly"]
-	path = 7-Plotly
-	url = https://github.com/TawanTan/7-Plotly.git
-	branch = master
-[submodule "8-PROJECT-1"]
-	path = 8-PROJECT-1
-	url = https://github.com/TawanTan/8-PROJECT-1.git
-	branch = master
-[submodule "1-Python-1"]
-	path = 1-Python-1
-	url = https://github.com/TawanTan/1-Python-1.git
-	branch = master
 [submodule "23-Random-Forest"]
 	path = 23-Random-Forest
 	url = https://github.com/TawanTan/23-Random-Forest.git
-	branch = master
-[submodule "6-Seaborn"]
-	path = 6-Seaborn
-	url = https://github.com/TawanTan/6-Seaborn.git
 	branch = master
 [submodule "20-Support-Vector-Machine"]
 	path = 20-Support-Vector-Machine
@@ -45,10 +25,6 @@
 [submodule "17-Support-Vector-Regression"]
 	path = 17-Support-Vector-Regression
 	url = https://github.com/TawanTan/17-Support-Vector-Regression.git
-	branch = master
-[submodule "4-Pandas"]
-	path = 4-Pandas
-	url = https://github.com/TawanTan/4-Pandas.git
 	branch = master
 [submodule "26-PCA-Outlier-Detection"]
 	path = 26-PCA-Outlier-Detection
@@ -85,16 +61,4 @@
 [submodule "11-Tableau-Lab"]
 	path = 11-Tableau-Lab
 	url = https://github.com/TawanTan/11-Tableau-Lab.git
-	branch = master
-[submodule "9-PowerBI-Lab"]
-	path = 9-PowerBI-Lab
-	url = https://github.com/TawanTan/9-PowerBI-Lab.git
-	branch = master
-[submodule "3-Numpy"]
-	path = 3-Numpy
-	url = https://github.com/TawanTan/3-Numpy.git
-	branch = master
-[submodule "2-Python-2"]
-	path = 2-Python-2
-	url = https://github.com/TawanTan/2-Python-2.git
 	branch = master
