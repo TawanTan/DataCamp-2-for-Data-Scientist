@@ -62,3 +62,39 @@
 	path = 11-Tableau-Lab
 	url = https://github.com/TawanTan/11-Tableau-Lab.git
 	branch = master
+[submodule "01-Python-1"]
+	path = 01-Python-1
+	url = https://github.com/TawanTan/01-Python-1.git
+	branch = master
+[submodule "05-Matplotlib"]
+	path = 05-Matplotlib
+	url = https://github.com/TawanTan/05-Matplotlib.git
+	branch = master
+[submodule "07-Plotly"]
+	path = 07-Plotly
+	url = https://github.com/TawanTan/07-Plotly.git
+	branch = master
+[submodule "08-PROJECT-1"]
+	path = 08-PROJECT-1
+	url = https://github.com/TawanTan/08-PROJECT-1.git
+	branch = master
+[submodule "06-Seaborn"]
+	path = 06-Seaborn
+	url = https://github.com/TawanTan/06-Seaborn.git
+	branch = master
+[submodule "04-Pandas"]
+	path = 04-Pandas
+	url = https://github.com/TawanTan/04-Pandas.git
+	branch = master
+[submodule "09-PowerBI-Lab"]
+	path = 09-PowerBI-Lab
+	url = https://github.com/TawanTan/09-PowerBI-Lab.git
+	branch = master
+[submodule "03-Numpy"]
+	path = 03-Numpy
+	url = https://github.com/TawanTan/03-Numpy.git
+	branch = master
+[submodule "02-Python-2"]
+	path = 02-Python-2
+	url = https://github.com/TawanTan/02-Python-2
+	branch = master
